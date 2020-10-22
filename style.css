@@ -32,3 +32,18 @@ header input {
     outline: none;
     background-color: white;
 }
+
+main {
+    flex: 1 1 100%;
+    padding: 25px 25px 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.location .city {
+    font-size: 32px;
+    font-weight: 500;
+    margin-bottom: 5px;
+}
