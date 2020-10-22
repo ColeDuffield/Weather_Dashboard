@@ -59,3 +59,17 @@ main {
     margin: 30px 0;
     
 }
+
+.current .temp span {
+    font-weight: 500;
+}
+
+.current .weather {
+    color: black;
+    font-size: 32px;
+    font-weight: 700;
+    font-style: italic;
+    margin-bottom: 15px;
+}
+
+.current .high-low
